@@ -76,5 +76,5 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="w7x32brlcz26ibb",TV8
 http://exchange.cdnrdn.com:9090/TR/tv8hd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
-#EXTINF:-1 group-title="UK VIP NEW",UK: Sky Sports Premier League HD
-http://31.43.191.125:8080/restream/restream/147025
+#EXTINF:-1 tvg-name="beIN Sports 1 Turk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="TÜM KANALLAR (A-Z Sıralı)",beIN Sports 1 Turk
+http://57.129.0.61:1990/stream/117/index.m3u8#all
