@@ -65,3 +65,5 @@ http://exchange.cdnrdn.com:9090/TR/showtvhd-tr/index.m3u8?token=filbox_oztnvqmfK
 http://exchange.cdnrdn.com:9090/TR/nowhd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1,TV8
 http://exchange.cdnrdn.com:9090/TR/tv8hd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
+#EXTINF:-1,beIN Sports Haber
+http://exchange.cdnrdn.com:9090/TR-N/beIN_SPORTS_HABER_HD-tr/index.m3u8?token=filbox_oztnvqmfK83KS
