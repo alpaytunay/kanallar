@@ -80,11 +80,11 @@ http://57.129.0.61:1990/stream/117/index.m3u8#all
 http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="w7x32brlcz26ibb",TV8
 http://exchange.cdnrdn.com:9090/TR/tv8hd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
-#EXTINF:-1,TV 100
+#EXTINF:-1 tvg-id="5i5mds6ap6h7m7w",TV 100
 http://exchange.cdnrdn.com:9090/TR/tv100hd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-id="HABERTÜRK.tr" tvg-name="Habertürk TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",Habertürk TV
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8#all
-#EXTINF:-1 tvg-name="Halk TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",Halk TV
+#EXTINF:-1 tvg-name="Halk TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)" tvg-id="d1exl1gxity48nl",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8#all
 #EXTINF:-1 tvg-name="KOZATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhScu_NCfac7gATnAnPhKW-rW4RBu-ReGBkYqEP_TXBc2OvEMR5_BVEcm&s=10" group-title="Yerel",KOZATV
 https://live.artidijitalmedya.com/artidijital_kozatv/kozatv/chunks.m3u8
@@ -114,7 +114,7 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8#all
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8#all
 #EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8#all
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)" tvg-id="1yyvuttcurbkcnr",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8#all
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-name="TRT Türk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8#all
@@ -132,11 +132,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8#top50
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web#top50
 #EXTINF:-1 tvg-id="BENGÜ.TÜRK.tr" tvg-name="Bengütürk TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bengu-turk-tr.png" group-title="TOP 50",Bengütürk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8#top50
-#EXTINF:-1 tvg-name="Ekol TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ekoturk-tr.png" group-title="TOP 50",Ekol TV
+#EXTINF:-1 tvg-name="Ekol TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ekoturk-tr.png" group-title="TOP 50" tvg-id="3kluptlla8k8re0",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8#top50
-#EXTINF:-1 tvg-name="Dream Türk" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="TOP 50",Dream Türk
+#EXTINF:-1 tvg-name="Dream Türk" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="TOP 50" tvg-id="ttlji9eholru11x",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8#top50
 #EXTINF:-1,GZT
 http://exchange.cdnrdn.com:9090/TR/gzthd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
-#EXTINF:-1,beIN Sports Haber
+#EXTINF:-1 tvg-id="kazwkgx73ijjqob",beIN Sports Haber
 http://exchange.cdnrdn.com:9090/TR-N/beIN_SPORTS_HABER_HD-tr/index.m3u8?token=filbox_oztnvqmfK83KS
