@@ -73,11 +73,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr@SD" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Music",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 1 Turk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="TÜM KANALLAR (A-Z Sıralı)",beIN Sports 1 Turk
-http://57.129.0.61:1990/stream/117/index.m3u8#all
-#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",beIN Sports 1 Turk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="w7x32brlcz26ibb",TV8
 http://exchange.cdnrdn.com:9090/TR/tv8hd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-id="5i5mds6ap6h7m7w",TV 100
@@ -112,10 +107,6 @@ https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/s
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8#all
 #EXTINF:-1 tvg-id="TRT.MÜZİK.tr" tvg-name="TRT Müzik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8#all
-#EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8#all
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)" tvg-id="1yyvuttcurbkcnr",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8#all
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-name="TRT Türk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8#all
 #EXTINF:-1 tvg-name="TV Den" tvg-logo="https://i.imgur.com/Uhg95Ze.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TV Den
@@ -124,12 +115,8 @@ http://canli.tvden.com.tr/hls/live.m3u8#all
 https://tv.ensonhaber.com/tv100/tv100.m3u8#all
 #EXTINF:-1 tvg-id="NTV.HD.tr" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ntv-tr.png" group-title="TOP 50",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8#top50
-#EXTINF:-1 tvg-id="A.SPOR.HD.tr" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="TOP 50",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8#top50
 #EXTINF:-1 tvg-id="360.HD.tr" tvg-name="360" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="TOP 50",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8#top50
-#EXTINF:-1 tvg-name="HTSpor TV" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TOP 50",HTSpor TV
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web#top50
 #EXTINF:-1 tvg-id="BENGÜ.TÜRK.tr" tvg-name="Bengütürk TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bengu-turk-tr.png" group-title="TOP 50",Bengütürk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8#top50
 #EXTINF:-1 tvg-name="Ekol TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ekoturk-tr.png" group-title="TOP 50" tvg-id="3kluptlla8k8re0",Ekol TV
@@ -138,5 +125,18 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8#top50
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8#top50
 #EXTINF:-1,GZT
 http://exchange.cdnrdn.com:9090/TR/gzthd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
+#EXTINF:-1 tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT Spor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8#all
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TÜM KANALLAR (A-Z Sıralı)" tvg-id="1yyvuttcurbkcnr",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8#all
+#EXTINF:-1 tvg-name="HTSpor TV" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="TOP 50",HTSpor TV
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web#top50
+#EXTINF:-1 tvg-id="A.SPOR.HD.tr" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="TOP 50",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8#top50
 #EXTINF:-1 tvg-id="kazwkgx73ijjqob",beIN Sports Haber
 http://exchange.cdnrdn.com:9090/TR-N/beIN_SPORTS_HABER_HD-tr/index.m3u8?token=filbox_oztnvqmfK83KS
+#EXTINF:-1 tvg-name="beIN Sports 1 Turk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="TÜM KANALLAR (A-Z Sıralı)",beIN Sports 1 Turk
+http://57.129.0.61:1990/stream/117/index.m3u8#all
+#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",beIN Sports 1 Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.0.61:1990/stream/117/index.m3u8
